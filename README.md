@@ -3,6 +3,9 @@
 > **Liúxīng · Flux Runtime (中文优先)**
 > 主题优先的中文自然语言编程运行时，量词类型系统，零形回指上下文传递。
 
+> **This is the Chinese (中文) localization of [flux-runtime](https://github.com/SuperInstance/flux-runtime).**
+> FLUX-zho is part of the FLUX internationalization fleet — a Chinese-first NL runtime for the FLUX universal bytecode VM, leveraging topic-comment syntax, classifier-based type systems, and zero-anaphora context passing.
+
 ---
 
 ## 什么是流星运行时？
@@ -168,3 +171,7 @@ pytest
 ## 许可
 
 MIT
+
+---
+
+<img src="callsign1.jpg" width="128" alt="callsign">
